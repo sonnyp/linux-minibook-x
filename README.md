@@ -37,6 +37,7 @@ As of Linux 6.8 (2023-03-02)
 | Night Light          | ❌      |
 | Bluetooth            | ✅      | |
 | Ambient light sensor | ?       | |
+| Wifi                 | ✅      | |
 
 ## Features
 
